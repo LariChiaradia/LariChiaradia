@@ -1,4 +1,4 @@
-### Oieee!! Eu sou Larissa Chiaradia!!
+### Olá, seja bem vindo!!!
 
 <!--
 **LariChiaradia/LariChiaradia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
