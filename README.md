@@ -25,7 +25,6 @@ Here are some ideas to get you started:
     <img align="center" alt="Lari-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="Lari-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="right" alt="Lari-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/842998667727994930/943681252190457926/DesenhoGithub.png">
-  </div>
   ##
  
 <div> 
